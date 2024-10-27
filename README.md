@@ -14,3 +14,5 @@ Frontend: React JS with Sass for efficient CSS styling
 Backend: Express.js for routing and data management
 Database: MongoDB for data storage
 
+(Home.png)
+
