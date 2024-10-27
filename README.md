@@ -16,3 +16,23 @@ Database: MongoDB for data storage
 
 ![Home Page](Home.png)
 
+
+![Property Page](property.png)
+
+
+![Login Page](login.png)
+
+
+
+![Listing Page](listing.png)
+
+
+
+![Location Page](location.png)
+
+
+![Update Profile Page](update.png)
+
+
+
+
